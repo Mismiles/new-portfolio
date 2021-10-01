@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Football club website",
+    subtitle: "HTML, CSS, Javascript and Django",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A football club website with a store, a news, a match report and a contact us section. The site comes with full authentication and restrictions to user privileges.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://club-football.herokuapp.com/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Pharmacy search tool",
+    subtitle: "HTML, CSS, Javascript, Flask and MongoDB",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A search tool that allows the user to store resources, edit and delete them as needed. Also contains an authentication system.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "http://pharmacy-search.herokuapp.com/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Adult Vancomycin initiation tool",
+    subtitle: "HTML, CSS, Javascript and Bootstrap",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A complex dosing calculator on a toxic drug. Is currently being trialled in an NHS Hospital.",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://mismiles.github.io/project-clinical-calculator/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Project water",
+    subtitle: "HTML, CSS and Bootstrap",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A summary site on water and its amazing features. Made using basic front end languages.",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://mismiles.github.io/project-water/",
   },
 ];
 
@@ -50,11 +50,4 @@ export const testimonials = [
   },
 ];
 
-export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
-];
+export const skills = ["Django", "Flask", "JavaScript", "ReactJS"];
